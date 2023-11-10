@@ -92,7 +92,7 @@ namespace WF_MiniMarket
             else
             {
                 MessageBox.Show("Error al actualizar el proveedor. Verifique los datos y vuelva a intentarlo.");
-                // Aquí puedes manejar el error de alguna otra manera si es necesario
+                // Manejar el error de alguna otra manera si es necesario
             }
 
             // Volver a cargar la lista de proveedores después de la actualización
